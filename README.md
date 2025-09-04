@@ -28,6 +28,5 @@ I am running this script on google colab.
 -   if running locally:
     ```bash
     python ezsheet.py
-    ```     
 
 ### Will ask for one input date or column in the sheet that you want to mark attendance for.
